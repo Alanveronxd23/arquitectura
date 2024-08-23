@@ -1,0 +1,5 @@
+#!/bin/bash
+contador=0
+termina=10
+
+until [
